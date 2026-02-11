@@ -1,0 +1,4 @@
+# Dependensi Proyek HuffmanGUICompression
+matplotlib>=3.3.0
+sv-ttk>=2.5
+cryptography>=40.0.0
